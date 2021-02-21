@@ -26,3 +26,8 @@ Saya akan membagikan
 froze bot v3
 
 ## Tool
+```bash
+> Termux 
+> WhatsApp 
+> 2 Hal
+```
