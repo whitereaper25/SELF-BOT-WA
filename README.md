@@ -31,3 +31,10 @@ froze bot v3
 > WhatsApp 
 > 2 Hp
 ```
+## NOTE
+Mau Reaploud? Kasih nama gw
+Mr virtex dan jangaj numpang
+Nama doang itu gk bakal bikin lu pro
+(:
+```
+
