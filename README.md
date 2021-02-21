@@ -20,4 +20,4 @@ termux only
 <a href="https://github.com/Mr-virtex/SELF-BOT-WA"><img src="https://img.shields.io/github/search/Mr-virtex/SELF-BOT-WA/SELF-BOT-WA?label=Search&style=plastic"></a>
 </p>
 
-# Maintenance
+<summary>❤️ HELP ME ❤️</summary>
