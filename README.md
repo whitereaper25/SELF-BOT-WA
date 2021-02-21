@@ -86,7 +86,10 @@ node index.js
 |TRIGGER|✔️|
 |FISHEYE|✔️|
 |IMG TO URL|✔️|
-|:------------------------:|
+|:-------------|----------:|
+And More
+
+--
 MORE FEATURE WAS COMING SOON
 
 
