@@ -29,5 +29,5 @@ froze bot v3
 ```bash
 > Termux 
 > WhatsApp 
-> 2 Hal
+> 2 Hp
 ```
