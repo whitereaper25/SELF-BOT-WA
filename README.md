@@ -87,13 +87,16 @@ node index.js
 |FISHEYE|✔️|
 |IMG TO URL|✔️|
 
---
+
+
 And More
 
---
+
 MORE FEATURE WAS COMING SOON
 
+--
 
-
+Mau nanya nanya???
+https://wa.me/+6281539336834
 
 
