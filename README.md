@@ -21,3 +21,8 @@ termux only
 </p>
 
 <details>
+Halo gan kalau ini
+Saya akan membagikan
+froze bot v3
+
+## Tool
