@@ -48,7 +48,46 @@ node index.js
 |MAIN FEATURE|✔️|
 |:-----------:|:---------|
 |STICKER MAKER|✔️|
-
+|STICKERSEARCH|✔️|
+|TEXTPRO|✔️|
+|SET PREFIX|✔️|
+|SET CR|✔️|
+|LIMIT|✔️|
+|ATM|✔️|
+|EPHOTO|✔️|
+|STICKER WITH WATERMARK|✔️|
+|BAN|❌|
+|BLOCK|❌|
+|HENTAI|❌|
+|RANDOANIME|✔️|
+|RANDOM CAT|✔️|
+|ASUPAN|✔️|
+|LEVEL/XP|✔️|
+|MONEY|✔️|
+|ANTILINK|✔️|
+|PLAY AUDIO|✔️|
+|PLAY VIDEO|✔️|
+|TAHTA|✔️|
+|TAHTA CUSTOM|✔️|
+|NULIS|✔️|
+|FB GOLDEN BUTTON|✔️|
+|SILVER PLAY BUTTON|✔️|
+|GOLD PLAY BUTTON|✔️|
+|BASS|✔️|
+|SLOW|✔️|
+|TUPAI AUDIO|✔️|
+|GEMUK|✔️|
+|BUY LIMIT|✔️|
+|THUNDER TEXT|✔️|
+|BLOOD TEXT|✔️|
+|STYLE TEXT|✔️|
+|BOKEH TEXT|✔️|
+|STICKER TO IMAGE|✔️|
+|TRIGGER|✔️|
+|FISHEYE|✔️|
+|IMG TO URL|✔️|
+|:------------------------:|
+MORE FEATURE WAS COMING SOON
 
 
 
