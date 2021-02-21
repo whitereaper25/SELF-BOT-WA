@@ -7,7 +7,7 @@ termux only
 <a href="https://github.com/Mr-virtex"><img title="Mr-virtex" src="https://i.imgur.com/pegvicI.jpg"></a>
 </p>
 <p align="center">
-<img src="https://gpvc.arturio.dev/mrfzvx12" />
+<img src="https://gpvc.arturio.dev/Mr-virtex" />
 <a href="https://github.com/Mr-virtex"><img title="Author" src="https://img.shields.io/badge/Termux Whatsapp Bot-V2-orange?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/Mr-virtex/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfzvx12?label=Followers&style=social"></a>
 <a href="https://github.com/Mr-virtex/SELF-BOT-WA/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfzvx12/im-lexa-v2?&style=social"></a>
