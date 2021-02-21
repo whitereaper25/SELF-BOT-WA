@@ -37,6 +37,15 @@ Mr virtex dan jangaj numpang
 Nama doang itu gk bakal bikin lu pro
 (:
 --
+## INTSALL 
+```bash
+npm i
+node index.js
+```
+--
+
+
+
 
 
 
