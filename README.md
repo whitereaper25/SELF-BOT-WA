@@ -17,7 +17,7 @@ termux only
 </p>
 <p align="center">
 <a href="https://github.com/Mr-virtex/SELF-BOT-WA"><img src="https://img.shields.io/github/repo-size/Mr-virtex/SELF-BOT-WA?label=Repo%20size&style=plastic"></a>
-<a href="https://github.com/Mr-virtex/SELF-BOT-WA"><img src="https://img.shields.io/github/search/Mr-virtex/SELF-BOT-WA/termux-whatsapp-bot?label=Search&style=plastic"></a>
+<a href="https://github.com/Mr-virtex/SELF-BOT-WA"><img src="https://img.shields.io/github/search/Mr-virtex/SELF-BOT-WA/SELF-BOT-WA?label=Search&style=plastic"></a>
 </p>
 
 # Maintenance
