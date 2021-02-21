@@ -7,7 +7,7 @@ termux only
 </P>
 
 <p align="center">
-<a href="https://github.com/mrfzvx12"><img title="mrfzvx12" src="https://img.shields.io/badge/github-Mrfzvx12-orange.svg?style=social&logo=github"></a>
+<a href="https://github.com/Mr-virtex"><img title="Mr-virtex" src="https://i.imgur.com/pegvicI.jpg"></a>
 </p>
 <p align="center">
 <img src="https://gpvc.arturio.dev/mrfzvx12" />
