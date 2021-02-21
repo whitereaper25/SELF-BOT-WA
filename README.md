@@ -86,7 +86,8 @@ node index.js
 |TRIGGER|✔️|
 |FISHEYE|✔️|
 |IMG TO URL|✔️|
-|:-------------|----------:|
+
+--
 And More
 
 --
