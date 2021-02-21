@@ -41,7 +41,9 @@ Nama doang itu gk bakal bikin lu pro!!
 (:
 --
 ## INTSALL 
-```bash
+```bash 
+git clone https://github.com/Mr-virtex/SELF-BOT-WA.git
+cd SELF-BOT-WA
 npm i
 node index.js
 ```
