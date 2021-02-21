@@ -45,8 +45,9 @@ node index.js
 --
 
 ## FEATURE
-|MAIN FEATURE|
+|MAIN FEATURE|✔️|
 |:-----------:|
+|STICKER MAKER|✔️|
 
 
 
