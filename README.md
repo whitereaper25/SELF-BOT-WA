@@ -25,6 +25,7 @@ Hallo My Name ia Hazn 👋
 <details>
 Halo gan kali ini
 Saya akan membagikan
+script botwa 
 froze bot v3
 
 ## Tool
@@ -35,8 +36,8 @@ froze bot v3
 ```
 ## NOTE
 Mau Reaploud? Kasih nama gw
-Mr virtex dan jangaj numpang
-Nama doang itu gk bakal bikin lu pro
+Mr virtex dan jangan numpang
+Nama doang itu gk bakal bikin lu pro!!
 (:
 --
 ## INTSALL 
