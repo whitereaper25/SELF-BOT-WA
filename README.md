@@ -1,6 +1,8 @@
 # SELF-BOT-WA
 termux only
 
+Hallo My Name ia Hazn 👋
+
 </P>
 
 <p align="center">
