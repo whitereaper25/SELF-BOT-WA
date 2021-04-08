@@ -63,7 +63,7 @@ const link = JSON.parse(fs.readFileSync('./database/link.json'))
 const _level = JSON.parse(fs.readFileSync('./database/level.json')) 
 const _leveling = JSON.parse(fs.readFileSync('./database/levelgc.json')) 
 const uang = JSON.parse(fs.readFileSync('./database/uang.json'))
-prefix = '.'
+prefix = '#'
 blocked = []
 limitawal = 30
 test = '*♻️SELFBOT BY MRVIRTEX♻️*' 
@@ -370,7 +370,7 @@ client.on('group-participants-update', async (anu) => {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["6281539336834@s.whatsapp.net"] // replace this with your number
+			const ownerNumber = ["919080896537@s.whatsapp.net"] // replace this with your number
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
