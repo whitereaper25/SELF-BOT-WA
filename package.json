@@ -1,5 +1,5 @@
 {
-  "name": "botku",
+  "name": "HINATA",
   "version": "1.0.0",
   "description": "bot gw anjim",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "H"
   },
   "keywords": [],
-  "author": "Mr-Virtex",
+  "author": "SOUL REAPERS",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
